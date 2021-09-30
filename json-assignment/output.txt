@@ -1,0 +1,54 @@
+|   Id | Type        | Name      | Batter       | Topping                  |
+|-----:|:------------|:----------|:-------------|:-------------------------|
+| 0001 | Donut       | Cake      | Regular      | None                     |
+| 0001 | Donut       | Cake      | Regular      | Glazed                   |
+| 0001 | Donut       | Cake      | Regular      | Sugar                    |
+| 0001 | Donut       | Cake      | Regular      | Powdered Sugar           |
+| 0001 | Donut       | Cake      | Regular      | Chocolate with Sprinkles |
+| 0001 | Donut       | Cake      | Regular      | Chocolate                |
+| 0001 | Donut       | Cake      | Regular      | Maple                    |
+| 0001 | Donut       | Cake      | Chocolate    | None                     |
+| 0001 | Donut       | Cake      | Chocolate    | Glazed                   |
+| 0001 | Donut       | Cake      | Chocolate    | Sugar                    |
+| 0001 | Donut       | Cake      | Chocolate    | Powdered Sugar           |
+| 0001 | Donut       | Cake      | Chocolate    | Chocolate with Sprinkles |
+| 0001 | Donut       | Cake      | Chocolate    | Chocolate                |
+| 0001 | Donut       | Cake      | Chocolate    | Maple                    |
+| 0001 | Donut       | Cake      | Blueberry    | None                     |
+| 0001 | Donut       | Cake      | Blueberry    | Glazed                   |
+| 0001 | Donut       | Cake      | Blueberry    | Sugar                    |
+| 0001 | Donut       | Cake      | Blueberry    | Powdered Sugar           |
+| 0001 | Donut       | Cake      | Blueberry    | Chocolate with Sprinkles |
+| 0001 | Donut       | Cake      | Blueberry    | Chocolate                |
+| 0001 | Donut       | Cake      | Blueberry    | Maple                    |
+| 0001 | Donut       | Cake      | Devil's Food | None                     |
+| 0001 | Donut       | Cake      | Devil's Food | Glazed                   |
+| 0001 | Donut       | Cake      | Devil's Food | Sugar                    |
+| 0001 | Donut       | Cake      | Devil's Food | Powdered Sugar           |
+| 0001 | Donut       | Cake      | Devil's Food | Chocolate with Sprinkles |
+| 0001 | Donut       | Cake      | Devil's Food | Chocolate                |
+| 0001 | Donut       | Cake      | Devil's Food | Maple                    |
+| 0002 | Molten Cake | Lava Cake | Chocolate    | None                     |
+| 0002 | Molten Cake | Lava Cake | Chocolate    | Glazed                   |
+| 0002 | Molten Cake | Lava Cake | Chocolate    | Sugar                    |
+| 0002 | Molten Cake | Lava Cake | Chocolate    | Powdered Sugar           |
+| 0002 | Molten Cake | Lava Cake | Chocolate    | Chocolate with Sprinkles |
+| 0002 | Molten Cake | Lava Cake | Chocolate    | Chocolate                |
+| 0002 | Molten Cake | Lava Cake | Chocolate    | Maple                    |
+| 0002 | Molten Cake | Lava Cake | Chocolate    | Caramel                  |
+| 0002 | Molten Cake | Lava Cake | White Choco. | None                     |
+| 0002 | Molten Cake | Lava Cake | White Choco. | Glazed                   |
+| 0002 | Molten Cake | Lava Cake | White Choco. | Sugar                    |
+| 0002 | Molten Cake | Lava Cake | White Choco. | Powdered Sugar           |
+| 0002 | Molten Cake | Lava Cake | White Choco. | Chocolate with Sprinkles |
+| 0002 | Molten Cake | Lava Cake | White Choco. | Chocolate                |
+| 0002 | Molten Cake | Lava Cake | White Choco. | Maple                    |
+| 0002 | Molten Cake | Lava Cake | White Choco. | Caramel                  |
+| 0002 | Molten Cake | Lava Cake | Devil's Food | None                     |
+| 0002 | Molten Cake | Lava Cake | Devil's Food | Glazed                   |
+| 0002 | Molten Cake | Lava Cake | Devil's Food | Sugar                    |
+| 0002 | Molten Cake | Lava Cake | Devil's Food | Powdered Sugar           |
+| 0002 | Molten Cake | Lava Cake | Devil's Food | Chocolate with Sprinkles |
+| 0002 | Molten Cake | Lava Cake | Devil's Food | Chocolate                |
+| 0002 | Molten Cake | Lava Cake | Devil's Food | Maple                    |
+| 0002 | Molten Cake | Lava Cake | Devil's Food | Caramel                  |
